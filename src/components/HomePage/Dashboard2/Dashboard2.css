@@ -1,0 +1,66 @@
+.TrustedByheading{
+    font-family: var(--font-family-text);
+    line-height: var(--font-line-height-large);
+    -webkit-font-smoothing: antialiased;
+    margin-left: 38%;
+    font-size: 1.5rem;
+}
+
+.Logocontainer{
+margin-left: 15%;
+/* padding: 2%; */
+align-items: center;
+flex-wrap: wrap;
+justify-content: center;
+
+
+}
+
+.ContainerCallDemo{
+    display: flex;
+    text-align: center;    
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 80px;
+    gap: 4%;
+    margin-left: 5%;
+    margin-right: auto;
+    overflow: hidden;
+    
+
+}
+
+@media screen and (min-width: 720px) {
+    
+   .Card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.2);
+    padding: 25px;
+    width: 50%;
+    margin: 20px;
+    object-fit: contain;
+    position: inherit;
+  }
+   
+}
+
+.Cardbutton{
+    background-color: #2B189B;
+    color: white;
+    padding: 20px;
+    width: 40%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-size: 1rem;
+    align-self: center;
+}
+
+.learnmore{
+
+    margin-top: 2%;
+    
+}
+
+

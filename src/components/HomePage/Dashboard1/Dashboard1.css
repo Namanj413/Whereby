@@ -1,0 +1,11 @@
+.stars{
+    width: 400px;
+    margin-top: 3%;
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}

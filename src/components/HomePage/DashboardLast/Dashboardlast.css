@@ -1,0 +1,30 @@
+.background{
+background-color: #F8DBD5;
+height: 50vh;
+padding: 20px;
+}
+
+.GettingStarted{
+    margin-top: 8%;
+   justify-content: center;
+   display: flex;
+}
+
+.tryNowButton{
+    align-self: center;
+    margin-top: 5%;
+}
+
+.CardbuttonLastPage{
+    background-color: #2B189B;
+    color: white;
+    padding: 15px;
+    width: 20%;
+    border-radius: 10px;
+    display:block ;
+    justify-content: center;
+    margin-left: 40%;
+    font-weight: bold;
+    font-size: 1rem;
+    align-content: center;
+}
